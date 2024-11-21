@@ -29,6 +29,8 @@
 &kp LSHFT                   &kp Z   &kp X     &kp C   &kp V   &kp B      &kp N   &kp M   &kp COMMA  &kp DOT   &kp FSLH   &kp RSHFT            &mo 1
 &kp LCTRL         &kp LGUI          &kp LALT                  &kp SPACE                             &kp RALT  &kp RGUI   &mo 1                &kp RCTRL
             >;
+
+            label = "caps to ctrl";
         };
 
         rgb_layer {
