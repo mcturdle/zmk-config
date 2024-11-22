@@ -30,7 +30,7 @@
 &kp LCTRL     &kp LGUI          &kp LALT                  &kp SPACE                             &kp RALT  &kp RGUI   &mo 1                &kp RCTRL
             >;
 
-            label = "caps to ctrl";
+            label = "keyboard";
         };
 
         rgb_layer {
